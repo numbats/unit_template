@@ -21,7 +21,7 @@ website:
         href: "https://learning.monash.edu/course/view.php?id=22222&section=1"
     right:
       - icon: github
-        href: https://github.com/numbats/abc
+        href: https://github.com/numbats/unit_template
 
 date-format: "D MMMM YYYY"
 
