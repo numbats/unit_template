@@ -29,7 +29,6 @@ format:
   html:
     theme: [cosmo, numbat.scss]
     highlight: textmate
-    css: styles.css
     toc: true
     mainfont: "Fira Sans"
     html-math-method: katex
