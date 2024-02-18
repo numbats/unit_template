@@ -18,7 +18,7 @@ You can see different variations of the base, particularly breaking content into
 # A useful addition for making tutorial instructions with solutions
 
 ```
-quarto install extension MikeLydeamore/unilur
+quarto install extension ginolhac/unilur
 ```
 
-Examples of using this to hide or reveal solutions can be seen in `https://github.com/numbats/iml`.
+Examples of using this to hide or reveal solutions can be seen in `https://github.com/numbats/iml`. And more documentation at https://github.com/MikeLydeamore/unilur
