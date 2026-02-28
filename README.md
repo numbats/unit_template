@@ -12,7 +12,7 @@ You can see different variations of the base, particularly breaking content into
 
 - https://github.com/numbats/af
 - https://github.com/numbats/arp
-- https://github.com/numbats/crp
+- https://github.com/numbats/rcp
 - https://github.com/numbats/iml
 
 # A useful addition for making tutorial instructions with solutions
